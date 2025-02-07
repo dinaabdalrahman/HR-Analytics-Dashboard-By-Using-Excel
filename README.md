@@ -27,7 +27,7 @@
 
  ### Number of employees for their ages (Column Chart) 
  - #### Insights : 
-   - ##### ( In 2013, the highest category was 50:60, and then, over time, in 2023, the 30:40 category appeared, and it was the category with the most employees ).
+    ##### ( In 2013, the highest category was 50:60, and then, over time, in 2023, the 30:40 category appeared, and it was the category with the most employees ).
 
 ### 2) Number of employees and their total salaries for the job and department (Combo Chart)
  - #### Insights : 
