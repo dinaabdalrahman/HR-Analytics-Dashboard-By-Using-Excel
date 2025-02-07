@@ -67,6 +67,7 @@
 ##### Here’s a screenshot of the HR Analytics Dashboard:
 
 
-![Uploading Dashboard P2.PNG…]()
 
+
+![Dashboard P2](https://github.com/user-attachments/assets/d4efeece-4e4e-484f-abd2-e4cb2d04f128)
 
