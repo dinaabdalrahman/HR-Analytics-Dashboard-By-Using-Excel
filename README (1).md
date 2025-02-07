@@ -67,5 +67,6 @@
 ##### Here’s a screenshot of the HR Analytics Dashboard:
 
 
-![](file:///E:/Data%20Analysis/Route%20for%20data%20analysis/Tasks%20%D9%85.%D8%A7%D8%AD%D9%85%D8%AF/Task_6/2.PNG)
 
+
+![Dashboard P2](https://github.com/user-attachments/assets/5b927d30-ce16-4376-8488-4758254eaf7c)
