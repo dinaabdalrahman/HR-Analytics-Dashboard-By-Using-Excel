@@ -9,7 +9,7 @@
 
 ## Features
 - #### Dynamic Slicers : 
-    - ######  Filter data by year, month ,Promotion within 5 years I left the job, the position and the department
+    - ###### Filter data by year, month ,Promotion within 5 years I left the job, the position and the department
 - #### Key Metrics : 
 
     - Total Employees: 1000
